@@ -1,0 +1,12 @@
+2021-09-16 19:20:49,890 INFO Entering Setup
+2021-09-16 19:20:58,457 DEBUG navigating to url
+2021-09-16 19:20:58,458 INFO Exiting setup
+2021-09-16 19:46:08,074 INFO Entering Setup
+2021-09-16 19:46:15,259 DEBUG navigating to url
+2021-09-16 19:46:15,259 INFO Exiting setup
+2021-09-16 19:58:42,509 INFO Entering Setup
+2021-09-16 19:58:48,695 DEBUG navigating to url
+2021-09-16 19:58:48,697 INFO Exiting setup
+2021-09-16 19:58:51,064 INFO email entered
+2021-09-16 19:58:53,347 INFO Password entered
+2021-09-16 19:59:05,575 INFO Logged in successfully
